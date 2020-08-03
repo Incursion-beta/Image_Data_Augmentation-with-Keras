@@ -1,1 +1,2 @@
 # Image_Data_Augmentation-with-Keras
+Data Augmentation is a technique used to expand or enlarge your dataset by using the existing data of the dataset. We apply different techniques to expand our dataset so that it will help to train our model better with a large dataset. If you are having a small dataset and if you use that dataset to train your model and overfit the data. So to increase the ability and performance of your model, or to generalize our model we need a proper dataset so that we can train our model. Data Augmentation helps you to achieve this.
